@@ -1,0 +1,5 @@
+from functions.make_sincos_feature_map import make_sincos_feature_map
+from functions.compute_singular_value import compute_singular_value
+
+
+compute_singular_value()
